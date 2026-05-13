@@ -23,9 +23,9 @@ ordinal DR grading under constrained training conditions?
 
 | Model | Loss Function | Test QWK | Test Accuracy |
 |---|---|---|---|
-| EfficientNet-B4 | Focal Loss | 0.772 | 64.7% |
+| EfficientNet-B4 | Focal Loss | 0.825 | 72.9% |
 | EfficientNet-B4 | Weighted CE | 0.824* | — |
-| **Swin-Tiny** | **Focal Loss** | **0.902** | **81.1%** |
+| **Swin-Tiny** | **Focal Loss** | **0.897** | **82.4%** |
 
 *Validation QWK only
 
